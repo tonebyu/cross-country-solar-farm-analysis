@@ -1,0 +1,17 @@
+# Ignore data and outputs
+data/
+*.csv
+
+# VSCode
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
